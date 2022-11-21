@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Sydney Ecommerce Theme`,
+        name: `Brojob Capital`,
         short_name: `Sydney`,
         start_url: `/`,
         background_color: `#000000`,
